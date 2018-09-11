@@ -12,7 +12,7 @@ Since BriteCore was created to work mostly with property-based insurance, the da
 
 ## Primary Goal
 
-We would like to see you come up with a solution that allows insurers to define their own custom data model for their risks. There should be no database tables called `automobiles`, `houses`, or `prizes`. Instead, insurers should be able to create their own risk types and attach as many different fields as they would like.
+In a github repo, we would like to see you come up with a solution that allows insurers to define their own custom data model for their risks. There should be no database tables called `automobiles`, `houses`, or `prizes`. Instead, insurers should be able to create their own risk types and attach as many different fields as they would like.
 
 Fields are bits of data like first name, age, zip code, model, serial number, Coverage A limit, or prize dollar amount. Basically any data the carrier would want to collect about the risk. Fields can also be of different types, like text, date, number, currency, and so forth.
 
@@ -50,7 +50,13 @@ For questions, please use the contact email you were provided in the hiring step
 
 ## Finished?
 
-When you're done with the above project, please submit your GitHub repo to the contact email you were provided in the hiring step that brought you to this repo. Include with that a link to a live hosted instance. If you haven't already supplied a resume during this process, attach it to your email.
+When you're done with the above project, please send us an email with the following:
+
+* Links to your GitHub repo with your solution
+* A link to a hosted 
+* Your updated resume
+
+The target address is the contact email you were provided in the hiring step that brought you to this repo.
 
 1. **Bonus points** if you also orchestrate the launch environment in AWS using CloudFormation.
 2. **Mega bonus points** if you host the app in [AWS Lambda](https://aws.amazon.com/lambda/) using [Zappa](https://github.com/Miserlou/Zappa) or [AWS ECS](https://aws.amazon.com/ecs/) using [AWS Fargate](https://aws.amazon.com/fargate/).

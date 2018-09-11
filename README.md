@@ -52,9 +52,9 @@ For questions, please use the contact email you were provided in the hiring step
 
 When you're done with the above project, please send us an email with the following:
 
-* Links to your GitHub repo with your solution
-* A link to a hosted 
-* Your updated resume
+- Links to your GitHub repo with your solution
+- A link to a hosted instance of your application
+- Your updated resume
 
 The target address is the contact email you were provided in the hiring step that brought you to this repo.
 

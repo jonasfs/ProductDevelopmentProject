@@ -16,15 +16,19 @@ In a github repo, we would like to see you come up with a solution that allows i
 
 Fields are bits of data like first name, age, zip code, model, serial number, Coverage A limit, or prize dollar amount. Basically any data the carrier would want to collect about the risk. Fields can also be of different types, like text, date, number, currency, and so forth.
 
+Deliverables will be:
+
+1. A README that describes your approach and how to deploy your project.
+2. Link(s) to the deployed version of your project.
+
 ### Data
 
 For the data layer, model the risk types and how the generic fields and field types would relate to these risk types. Field types should be either `text`, `number`, `date`, or `enum` (where there are multiple potential options but only one choice can be made).
 
-Deliverables will be either...
+Deliverables will be:
 
 1. A Python file containing the ORM classes for these tables.
 2. An entity relationship diagram, which depicts the tables and their relationship to one another.
-3. Both 1 and 2, because you're awesome.
 
 ### Backend
 
@@ -32,7 +36,7 @@ For the backend, create two API endpoints. One that returns a single risk type a
 
 Deliverables will be...
 
-1. A well-tested REST API written in Python. **Bonus points** if you use Django.
+1. A well-tested REST API written in Python. **Bonus points** if you use Django and Django REST Framework's Class-Based Views.
 
 ### Frontend
 

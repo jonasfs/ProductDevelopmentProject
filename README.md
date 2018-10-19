@@ -4,4 +4,4 @@ You can apply for the BriteCore Product Division on our [engineering application
 
 If you already went through the [engineering application](https://engineering-application.britecore.com) and are looking for the test project, please contact us at the email we provided to you.
 
-_Note: This repo is slated for deletion on November 2._
+_Note: This repo is slated for deletion on October 25._
